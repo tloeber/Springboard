@@ -1,0 +1,7 @@
+# Database files
+*.db
+*.sql
+*.sqlite
+
+# The IPython notebook that creates the database
+cc_create_db.ipynb
