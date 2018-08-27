@@ -1,7 +1,12 @@
-# Database files
-*.db
-*.sql
-*.sqlite
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
 
-# The IPython notebook that creates the database
-cc_create_db.ipynb
+# Data folders
+data
+
+# Raw data
+*.csv
+*.xls
+
+# Documents
+*odt
