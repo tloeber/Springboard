@@ -110,3 +110,4 @@ venv.bak/
 # Folders
 documentation/
 previous_analyses/
+data_processed/
