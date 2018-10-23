@@ -1,12 +1,24 @@
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
 
+# Temporary notebooks
+*_temp.ipynb
+
 # Data folders
 data
 
 # Raw data
 *.csv
 *.xls
+*.zip
 
 # Documents
 *odt
+
+# Pictures
+*.png
+
+# Other
+*/Icon
+*/Icon_
+*/images/
