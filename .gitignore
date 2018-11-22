@@ -10,6 +10,7 @@ data
 # Raw data
 *.csv
 *.xls
+*.xlsx
 *.zip
 
 # Documents
@@ -17,6 +18,9 @@ data
 
 # Pictures
 *.png
+
+# joblib files
+*.joblib
 
 # Other
 */Icon
