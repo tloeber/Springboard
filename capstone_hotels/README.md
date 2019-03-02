@@ -1,1 +1,0 @@
-This is the public repository for my 2nd capstone project, which develops a automated valuation model for hotel property prices.  It contains reports and final slides. The code and notebooks are located in a private repository.
